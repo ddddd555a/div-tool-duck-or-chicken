@@ -1,0 +1,62 @@
+@font-face {
+    font-family: Bow;
+    src: url(BOOWIE.ttf);
+  }
+  .origin {
+    display: inline;
+  }
+  .btn {
+    display: none;
+  }
+  
+  img {
+    max-width: 50%;
+    max-height: 50%;
+  }
+  
+  .Duck {
+    font-family: Bow;
+    position: fixed;
+    top: 1%;
+    left: 3%;
+    color: rgb(255, 157, 38);
+    font-size: 260px;
+  }
+  
+  .Or {
+    font-family: Bow;
+    position: fixed;
+    top: 44%;
+    left: 46%;
+    color: rgb(254, 219, 219);
+    font-size: 100px;
+  }
+  
+  .Chick {
+    font-family: Bow;
+    position: fixed;
+    top: 70%;
+    left: 50%;
+    color: rgb(255, 234, 8);
+    font-size: 230px;
+  }
+  
+  .duckph {
+    height: 20000px;
+    position: fixed;
+    top: 30%;
+    right: 200px;
+  }
+  
+  .chickenph {
+    height: -1000px;
+    position: fixed;
+    top: -10%;
+  }
+  
+  .btn{
+    font-family: Bow;
+    color: rgb(0, 0, 0);
+    font-size: 50px;
+  }
+  
