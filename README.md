@@ -7,8 +7,9 @@ As an idiom expression, it actually means to pretend to be innocent even after m
 When one refuses to take accountability for their own wrongdoing, and you’re sure this person is denying the truth, 
 you can say to them “오리발 내밀지 마” (usually in an annoyed tone) which translates to “don’t lie to me”.
 
-
+<h1>
 What is it?
+</h1>
 I viewed the phrase in the point of view of Karma, a belief that the action in the past decides the fate in future. If you violate the law of conscience, the conscience will not let you go higher in acheivement or make you come back full circle of agony and pain.
 In the website, the duck foot represents the wrongdoings. And chicken foot represents the consceintiouis act. 
 
